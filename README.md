@@ -27,6 +27,7 @@ Microservices architecture structures an application as a collection of services
 - Ownedby a small team
 
 ## Installing Docker
+- Install docker on windows - https://docs.docker.com/desktop/windows/install/
 
 ## Login
 - Linking account and terminal - `docker login`
